@@ -1,0 +1,15 @@
+body{
+    background-image: url("/aboutus.jpg");
+    background-size: contain;
+    color: aliceblue;
+
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: dotted;
+    color: white;
+    background-color:rgb(79, 183, 101);
+    position: fixed;
+    
+  }

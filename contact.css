@@ -1,0 +1,18 @@
+body {
+background-image: url("/b2.jpeg");
+background-size: cover;
+}
+
+#c1{font-size: x-large;}
+div{border: 2px solid black;
+margin-right: 1000px;
+padding: 4px; 
+}
+a{
+    margin-right: 200px;
+    text-decoration: dotted;
+    color: white;
+    background-color:rgb(79, 183, 101);
+    position: fixed;
+    
+  }

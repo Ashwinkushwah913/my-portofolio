@@ -1,0 +1,59 @@
+*{
+   color: white;
+
+}
+
+body {
+   background-image: url("/aboutus.jpg");
+   background-size: cover;
+   
+}
+
+#navbar{
+   height: 60px;
+   background-color: rgba(46, 103, 133, 0.5);
+   /* position: sticky; */
+   display: flex;
+   align-items: center;
+}
+button{
+   background-color: rgba(202, 100, 27, 0.5);
+}
+
+#logo1{
+   color: white;
+   font-size: 25px;
+   background-color:rgba(135, 132, 126, 0.001);
+}
+a{
+   margin-right: 200px;
+   text-decoration: dotted;
+   color: white;
+   background-color:rgba(135, 132, 126, 0.0001);
+ }
+input{background-color:rgba(75, 169, 104, 0.3)}
+
+pre{
+   font-size: large;
+}
+
+
+
+
+h1{ text-align: center;
+color: rgba(127, 255, 212, 0.5);
+}
+h2{color: orange;}
+#div2{
+   margin-left: 1000px;
+   border: 5px solid rgb(215, 201, 167);
+   background-color: hsl(32, 42%, 62%);
+}
+
+   #outer{color: aqua;} 
+#p1{background-color: rgba(163, 129, 17, 0.3);
+text-align: center;
+font-size: xx-large;}
+.p2{
+   font-size:x-large;
+}
